@@ -1,2 +1,3 @@
 init: start learn
-somethink about to hapend
+somethink about to hapend 
+deadline is coming
